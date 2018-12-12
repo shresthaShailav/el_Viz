@@ -41,7 +41,7 @@ exponential_draws = [sum(exponential_samples(num_samples)) for i in range(num_dr
 
 
 """
-You will observer that the distribution will tend towars a NORMAL distribution
+You will observe that the distribution will tend towards a NORMAL distribution
 """
 
 # plot for sample drawn from exponential distribution
