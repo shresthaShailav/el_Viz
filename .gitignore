@@ -1,1 +1,3 @@
+# ignore any of my scripts
 *.sh
+*.ipynb_checkpoints
